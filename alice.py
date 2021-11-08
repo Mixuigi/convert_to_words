@@ -13,7 +13,7 @@ def convert_words(textpath):
             break
         else:
             old_text_len = len(text)
-    print("".join(text))
+    print(text)
 
 
 if __name__ == '__main__':
